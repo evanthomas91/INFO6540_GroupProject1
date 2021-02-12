@@ -26,6 +26,7 @@ Keep track of drivers' route preferences.
 Maintain records of service-satisfaction levels for both customers and drivers.  
 
 
+
 Driver’s Information: 
 
 Shift timing  
@@ -44,13 +45,11 @@ Payment options
 
 
 
-
 Ride’s information: 
 
 Cab ride information 
 
 Ride status  
-
   
   
 
