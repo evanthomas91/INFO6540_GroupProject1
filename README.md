@@ -42,7 +42,8 @@ Route
 
 Payment options 
 
-  
+
+
 
 Ride’s information: 
 
@@ -50,6 +51,7 @@ Cab ride information
 
 Ride status  
 
+  
   
 
 Customer’s Information:
